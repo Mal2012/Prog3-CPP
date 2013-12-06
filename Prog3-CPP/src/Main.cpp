@@ -5,10 +5,10 @@
  *      Author: Malcolm
  */
 #include <iostream>
-#include "a34.h"
+#include "a35.h"
 int main(int argc, char **argv) {
 
-	a34();
+	a35();
 	std::cin.peek();
 	return 0;
 }
